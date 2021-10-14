@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Luca B.</h1>
-<h3 align="center">A backend java & python developer from Bavaria</h3>
+![welcome-bg-2](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-- 🔭 I’m currently working on **RESTful Spring Applications**
-
-- 🌱 I’m currently learning **Python Automation**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **admin@lucabartmann.me**
-
-- ⚡ Fun fact **I started with coding on minecraft plugins.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/germanluca" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="germanluca" height="30" width="40" /></a>
+<p align="center"> <h1 align="center"> Luca B. </h1> </p>
+<p align="center">
+  <a href="https://github.com/germanluca" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="germanluca" height="20" width="20" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">Hey, My name is Luca and I live in Bavaria, Germany. Im programming for about 3 years now and I learned a lot about python and java. I started with java and to be honest it wasn‘t that easy how i expected it to be. But after a time just trying around with different YouTube tutorials, I started figuring out the basics of OOP and that was the turnaround when I started to do my own projects. After about one year of java coding, I got interested in Python and especially its automation features. Now I did my own projects in both of these languages and I gained much confidence.</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=germanluca&show_icons=true&locale=en&layout=compact" alt="germanluca" /></p>
+<br> </br>
+
+<p align="center">🌱 I’m currently learning python automation & RESTful apis.</p>
+
+<p align="center">👯 I’m looking to collaborate on java projects.</p>
+
+<p align="center">💬 Ask me about java, spring or mysql.</p>
+
+<p align="center">⚡ Fun fact: I started coding about three years ago with YouTube tutorials.</p>
+
+<br> </br>
+
+![Metrics](https://metrics.lecoq.io/germanluca)
+![Stats](https://github-readme-stats.vercel.app/api?username=germanluca&show_icons=true&theme=radical)
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=germanluca&layout=compact&theme=radical)
+
+![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
