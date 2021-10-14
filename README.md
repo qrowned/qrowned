@@ -19,7 +19,6 @@
 
 <br> </br>
 
-![Metrics](https://metrics.lecoq.io/germanluca)
 ![Stats](https://github-readme-stats.vercel.app/api?username=germanluca&show_icons=true&theme=radical)
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=germanluca&layout=compact&theme=radical)
 
