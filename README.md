@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/qrowned">
-    <img src="https://img.shields.io/badge/GitHub-qrowned-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/lucabartmann">
+    <img src="https://img.shields.io/badge/GitHub-lucabartmann-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/Location-Munich,%20Bavaria-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
   <img src="https://img.shields.io/badge/TUM-Computer%20Science-005FA3?style=for-the-badge&logo=academia&logoColor=white"/>
@@ -58,12 +58,12 @@ Computer Science student at **TU Munich** and backend engineer with a focus on s
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qrowned&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qrowned&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucabartmann&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucabartmann&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qrowned&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucabartmann&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
